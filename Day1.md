@@ -15,7 +15,7 @@ sudo useradd -m -s /bin/false rahul
 ### For verification check this 
 grep rahul /etc/passwd
 
-and the output will be like
+### and the output will be like
 rahul:x:1001:1001::/home/rahul:/sbin/nologin ```
 
 Here rahul is my user
